@@ -22,7 +22,7 @@ export class CreateSettings1619034268852 implements MigrationInterface {
                         default: true
                     },
                     {
-                        name: "upadated_at",
+                        name: "updated_at",
                         type: "timestamp",
                         default: "now()"
                     },
